@@ -1,4 +1,4 @@
-## Hi, I'm Ly Nguyen <img width="30px" height="30px" src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" />
+## Hi, I'm Ly Nguyễn <img width="30px" height="30px" src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" />
 
 - 🌱 I am currently a 1st-year student in Bachelor Program at HCMUS-Vietnam, majoring in Computer Science.
 - 📚 I am always eager to learn and explore new technologies/possibilities!
