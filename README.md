@@ -2,7 +2,7 @@
 
 - 🌱 I am currently a 1st-year student in bachelor program at University of Science VNU-HCM, majoring in Computer Science.
 - 📚 I am always eager to learn and explore new technologies/possibilities!
-- 🎶 My hobbies are: coding, listening to music 🤘, playing 🎹,...
+- 🎶 My hobbies are: coding, playing 🎹, having a whole day to chillout at home,...
 <br>
 My stats:
 <p align="center">
