@@ -1,8 +1,8 @@
 ## I'm Ly Nguyễn. Hi there~
 
 - 🌱 I am currently a 2nd-year student in bachelor program at University of Science VNU-HCM, majoring in Computer Science.
-- 📚 I am always eager to learn and explore new technologies/possibilities!
-- 🎶 My hobbies are: coding, playing 🎹, having a whole day to chillout at home (if only...).
+- 📚 I am young and veeeryyy eager to contribute, so if you think I'm up to the task, do reach out!
+- 🎶 My hobbies are: coding, playing 🎹, being a nerd on subjects I don't need to know...
 <br>
 My stats:
 <p align="center">
