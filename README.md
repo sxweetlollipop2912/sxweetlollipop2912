@@ -6,8 +6,8 @@
 <br>
 My stats:
 <p align="center">
-<img src="https://github.com/sxweetlollipop2912/github-stats/blob/master/generated/overview.svg">
-<img src="https://github.com/sxweetlollipop2912/github-stats/blob/master/generated/languages.svg">
+<img src="https://github.com/sxweetlollipop2912/github-stats/blob/master/generated/overview.svg#gh-dark-mode-only">
+<img src="https://github.com/sxweetlollipop2912/github-stats/blob/master/generated/languages.svg#gh-dark-mode-only">
 </p>
 
 Nice to meet you!!!
