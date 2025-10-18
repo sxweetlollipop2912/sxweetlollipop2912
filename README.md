@@ -1,6 +1,6 @@
 ## I'm Ly Nguyễn. Hi there~
 
-- 🌱 I've just fresh out of uni, holding a bachelor of Computer Science.
+- 🌱 I'm just fresh out of uni, holding a bachelor of Computer Science.
 - 📚 I am young and I love to contribute, so if you think I'm up to the task, do reach out!
 - 🎶 My hobbies are coding, playing piano, spending time on stuff I don't need to spend time on.
 <br>
